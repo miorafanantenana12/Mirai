@@ -1,8 +1,8 @@
 {
-	  "LANGUAGE": "vi",
+	  "LANGUAGE": "en",
 	  "BOT_NAME": "Bot",
 	  "ADMINS": [],
-	  "PREFIX": "/",
+	  "PREFIX": "-",
 	  "SELFLISTEN": false,
 	  "REFRESHING": "on",
 	  "GOOGLE_SEARCH": " ",
